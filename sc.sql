@@ -237,7 +237,7 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
--- Records of users
+-- Records of users 角色0为管理员，1为老师，2为学生
 -- ----------------------------
 INSERT INTO `users` VALUES ('1', null, 'harry', null, null, null, '123@qq.com', 'c4ca4238a0b923820dcc509a6f75849b', '0', null, null, null, null);
 INSERT INTO `users` VALUES ('2', 'tc001', '杜甫', '', '', '', '234@qq.com', 'c4ca4238a0b923820dcc509a6f75849b', '1', '男', '234', '13345670980', '社区3');
