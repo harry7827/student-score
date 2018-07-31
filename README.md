@@ -1,6 +1,6 @@
 # 简介：
 
-###本项目是javaweb最佳实践，用到一些诸如servlet的最基础的知识。欢迎star。。
+### 本项目是javaweb最佳实践，用到一些诸如servlet的最基础的知识。欢迎star。。
 
 
 
